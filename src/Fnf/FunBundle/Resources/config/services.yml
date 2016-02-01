@@ -1,0 +1,4 @@
+services:
+#    fnf_fun.example:
+#        class: Fnf\FunBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+fnf_fun_homepage:
+    path:     /
+    defaults: { _controller: FnfFunBundle:Default:index }

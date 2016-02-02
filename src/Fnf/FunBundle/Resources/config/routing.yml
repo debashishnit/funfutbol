@@ -1,3 +1,8 @@
 fnf_fun_homepage:
     path:     /
     defaults: { _controller: FnfFunBundle:Default:index }
+
+FnfFunBundle_job:
+    resource: "@FnfFunBundle/Resources/config/routing/job.yml"
+    prefix: /job
+
